@@ -1,0 +1,15 @@
+{
+  "name": "bot-leaker",
+  "version": "1.0.4",
+  "description": "BOT discord Leaker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "papa_matheo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {}
+}
